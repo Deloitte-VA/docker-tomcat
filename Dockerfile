@@ -1,4 +1,4 @@
-FROM deloitteva/centos-oraclejdk:8u45
+FROM deloitteva/docker-oracle-jdk:8u45
 MAINTAINER Kun Yue<KunYue96@gmail.com>
 
 # ##################

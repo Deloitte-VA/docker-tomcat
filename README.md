@@ -7,5 +7,5 @@ Tomcat instance for running web applications in the Deloitte VA systems
 
 ## Release instructions
 * Create a branch of the version that matches the tomcat version you are attempting to release.  This would be something like "8.0.23".  
-* Go to [DockerHub](https://registry.hub.docker.com/u/deloitteva/docker-tomcat/) and add an automated build for this new branch/version.
+* Go to [DockerHub](https://hub.docker.com/r/deloitteva/docker-tomcat/) and add an automated build for this new branch/version.
 * Once it has completed building, it should be available for use.
